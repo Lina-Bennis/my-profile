@@ -1,0 +1,85 @@
+h1 {
+    color: blue;
+    font-size: 25px;
+    font-family: monospace;
+ }
+
+ h2{
+    color: pink;
+    font-size: 25px;
+    font-family: monospace;
+ }
+
+ p{
+ 	color: black;
+    font-size: 25px;
+    font-family: monospace;
+ }
+
+ .container{
+  	margin: 10px;
+ }
+
+ .img-circle{
+   border-radius: 45%;
+ }
+
+ .img-bordered{
+   border: 3px inset #beige
+ }
+
+ #button{
+  text-decoration:: none;
+  background-color: beige;
+  padding: 9px;
+ }
+
+ #button:hover{
+   background-color: pink;
+   color: white;
+ }
+
+ .container{
+   width: 800px;
+   margin: 40px auto;
+   background-color: white;
+ }
+
+ .card-white{
+   background-color: white;
+   padding: 50px;
+   border-radius:4px;
+   box-shadow:0px 15px 35px grey;
+   margin: 40px;
+   text-align: center;
+ }
+
+ .list-inline{
+   list-style: none;
+   padding-left: 0px
+ }
+
+ .list-inline li{
+  display: inline;
+  padding: 10px;
+}
+
+ .list-line i{
+  font-size: 30px;
+  color: black;
+}
+
+#intro p{
+  margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
